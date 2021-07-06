@@ -1,8 +1,2 @@
-title: "Data Science "
-description: First step to learn Data Science
-google_analytics: UA-70148967-1
-show_downloads: true
-theme: jekyll-theme-time-machine
-
-gems:
-  - jekyll-mentions
+	name: Janpu Hou, Horrible Mentor
+	markdown: kramdown
